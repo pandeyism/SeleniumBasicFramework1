@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59745" started-at="2020-06-14T09:26:50Z" finished-at="2020-06-14T09:27:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59745" started-at="2020-06-14T09:26:50Z" finished-at="2020-06-14T09:27:50Z">
+      <class name="pkg1.TC05">
+        <test-method status="PASS" signature="browserlaunch()[pri:0, instance:pkg1.TC05@3bfdc050]" name="browserlaunch" is-config="true" duration-ms="10615" started-at="2020-06-14T14:56:50Z" finished-at="2020-06-14T14:57:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method status="PASS" signature="history()[pri:0, instance:pkg1.TC05@3bfdc050]" name="history" duration-ms="41782" started-at="2020-06-14T14:57:01Z" finished-at="2020-06-14T14:57:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- history -->
+        <test-method status="PASS" signature="browserclose()[pri:0, instance:pkg1.TC05@3bfdc050]" name="browserclose" is-config="true" duration-ms="7324" started-at="2020-06-14T14:57:42Z" finished-at="2020-06-14T14:57:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+      </class> <!-- pkg1.TC05 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
